@@ -6,26 +6,18 @@ In Japanese:えぬちゃん
 
 ## 各リポジトリについて
 
-- DigisparkBasedKeyboard
-- BASIC-Emulator
-- 3Phase-VVVF
-- Arduino
-- Devices
-- Xiao_RP_2040
-
-## 過去やってきたこと
-
-C基板サイズの小型インバータ制作  
-VVVFインバータ（現在進行中）  
-自作キーボード（販売もシテマス）  
-Webページ（[pages.nchlab.net](https://pages.nchlab.net)）  
-Minecraftマルチプレイサーバ（非公開）  
-
-## 言語とか
-
-ja, en
-
-C++, BASIC, Python, LaTeX
+- [DigisparkBasedKeyboard](https://github.com/Nch-MOSFET/DigisparkBasedKeyboard)
+  - 自作キーボード「DigiKeyboard」関連
+- [BASIC-Emulator](https://github.com/Nch-MOSFET/BASIC-Emulator)
+  - BASICエミュレータ開発用
+- [3Phase-VVVF](https://github.com/Nch-MOSFET/3Phase-VVVF)
+  - VVVFインバータ作ってます
+- [Arduino](https://github.com/Nch-MOSFET/Arduino)
+  - Arduinoのプログラムの保管庫。そのうちリポジトリ立て直す予定
+- [Devices](https://github.com/Nch-MOSFET/Devices)
+  - 自作デバイスとか
+- [Xiao_RP_2040](https://github.com/Nch-MOSFET/Xiao_RP2040_Keyboard)
+  - 名前通り
 
 <!--
 **Nch-MOSFET/Nch-MOSFET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
