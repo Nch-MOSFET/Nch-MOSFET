@@ -16,14 +16,16 @@ In Japanese:えぬちゃん
 ## 過去やってきたこと
 
 C基板サイズの小型インバータ制作  
+VVVFインバータ（現在進行中）  
 自作キーボード（販売もシテマス）  
 Webページ（[pages.nchlab.net](https://pages.nchlab.net)）  
+Minecraftマルチプレイサーバ（非公開）  
 
 ## 言語とか
 
 ja, en
 
-C++, BASIC, Python
+C++, BASIC, Python, LaTeX
 
 <!--
 **Nch-MOSFET/Nch-MOSFET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
