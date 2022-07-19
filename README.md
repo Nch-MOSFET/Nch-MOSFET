@@ -5,7 +5,7 @@ I'm Nch_MOSFET
 In Japanese:えぬちゃん
 
 Owner of [Nch_Lab](https://github.com/Nch-Lab)  
-Keyboard Maker
+Making Keyboard, CanSat, Inverter, and so on
 
 <!--
 **Nch-MOSFET/Nch-MOSFET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
