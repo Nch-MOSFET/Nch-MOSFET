@@ -15,7 +15,7 @@ Making Keyboard, CanSat, Inverter, and so on
     <img height="20" src="https://img.shields.io/twitter/follow/Nch_MOSFET?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Nch-MOSFET">
-    <img height="20" src="https://img.shields.io/github/followers/Nch_MOSFET?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Nch-MOSFET?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Nch-MOSFET">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Nch_MOSFET/posts.svg" />
